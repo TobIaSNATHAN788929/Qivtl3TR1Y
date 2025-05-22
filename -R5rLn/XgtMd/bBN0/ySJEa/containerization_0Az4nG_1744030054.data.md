@@ -31,7 +31,6 @@ If applicable, add screenshots and/or .gif to help explain your problem.
   * Plexguide Edition: [Gdrive/Local Storage/GCE]
   * Plexguide Mount System: [Move+PGDrive/Move+PlexDrive/PGBlitz/ST2]
   * Using Traefik: [Yes/No]
-  * Domain DNS Provider:[CloudFlare/DuckDNS/Gandi/GoDaddy/NameCheap]
 
 **Logs**
 If applicable provide the output from relevant logs and/or the output from the `pglog` command
