@@ -25,7 +25,6 @@ If applicable, add screenshots and/or .gif to help explain your problem.
 
 **Please tell us about your environment: (REPLACE EXAMPLE VALUES BELOW WITH YOUR ACTUAL VALUES)**
   
-  * Operating System: Ubuntu [16.04/18.04]
   * Plexguide Version: 6.xx [Stable/Beta/Edge]
   * Plexguide Server Type: [Remote Dedi/Remote VPS or VM/Local Dedi/Local VPS or VM]
   * Plexguide Edition: [Gdrive/Local Storage/GCE]
