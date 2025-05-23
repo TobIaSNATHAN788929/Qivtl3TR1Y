@@ -3,7 +3,6 @@ name: Bug report
 about: This template is for submitting bug reports ONLY. For support questions go to pgblitz.com forums and/or join the Plexguide Discord for real time help/support.
 
 ---
-
 **Describe the bug**
 A clear and concise description of what the bug is.
 
