@@ -26,7 +26,6 @@ If applicable, add screenshots and/or .gif to help explain your problem.
   * Plexguide Version: 6.xx [Stable/Beta/Edge]
   * Plexguide Server Type: [Remote Dedi/Remote VPS or VM/Local Dedi/Local VPS or VM]
   * Plexguide Edition: [Gdrive/Local Storage/GCE]
-  * Plexguide Mount System: [Move+PGDrive/Move+PlexDrive/PGBlitz/ST2]
   * Using Traefik: [Yes/No]
 
 **Logs**
