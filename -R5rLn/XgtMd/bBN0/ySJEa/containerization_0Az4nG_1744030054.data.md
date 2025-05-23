@@ -18,7 +18,6 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots and/or .gif to help explain your problem.
 
-**What is affected by this bug?**
 
 **When does this occur?**
 
